@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ethiopa/static/css/main.6cc9deb0.chunk.css",
+    "main.js": "/Ethiopa/static/js/main.870d3b05.chunk.js",
+    "main.js.map": "/Ethiopa/static/js/main.870d3b05.chunk.js.map",
+    "runtime-main.js": "/Ethiopa/static/js/runtime-main.97ac4c79.js",
+    "runtime-main.js.map": "/Ethiopa/static/js/runtime-main.97ac4c79.js.map",
+    "static/js/2.eb3e42a2.chunk.js": "/Ethiopa/static/js/2.eb3e42a2.chunk.js",
+    "static/js/2.eb3e42a2.chunk.js.map": "/Ethiopa/static/js/2.eb3e42a2.chunk.js.map",
+    "static/js/3.bb6887e2.chunk.js": "/Ethiopa/static/js/3.bb6887e2.chunk.js",
+    "static/js/3.bb6887e2.chunk.js.map": "/Ethiopa/static/js/3.bb6887e2.chunk.js.map",
+    "index.html": "/Ethiopa/index.html",
+    "precache-manifest.4860f1af21d2aea5628fef9dff93e218.js": "/Ethiopa/precache-manifest.4860f1af21d2aea5628fef9dff93e218.js",
+    "service-worker.js": "/Ethiopa/service-worker.js",
+    "static/css/main.6cc9deb0.chunk.css.map": "/Ethiopa/static/css/main.6cc9deb0.chunk.css.map",
+    "static/js/2.eb3e42a2.chunk.js.LICENSE.txt": "/Ethiopa/static/js/2.eb3e42a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ac4c79.js",
+    "static/js/2.eb3e42a2.chunk.js",
+    "static/css/main.6cc9deb0.chunk.css",
+    "static/js/main.870d3b05.chunk.js"
+  ]
+}
